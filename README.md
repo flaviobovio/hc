@@ -12,10 +12,10 @@
 ### Inicio/Fin Proyecto: 2014-04-01 / 2015-02-01
 
 ### Objectivo del proyecto
-    - Agenda de pacientes con detalle de visitas
+ - Agenda de pacientes con detalle de visitas
+ - Exportar historía clínica de pacientes a MS-Word
     
 ## Funcionalidades del sistema
-
   - ABM de pacientes
   - ABM de visitas
   - Exportación Historia Clínica del paciente a formato MS-Word (.doc)
