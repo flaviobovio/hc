@@ -40,8 +40,8 @@
  - Export medical records of patients to MS-Word
     
 ## System Features
-  - ABM of patients
-  - ABM of visits
+  - CRUD of patients
+  - CRUD of visits
   - Export of the patient's Clinical History to MS-Word (.doc) format
   - Backup system data
 
